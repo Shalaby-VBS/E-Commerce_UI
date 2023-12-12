@@ -1,21 +1,29 @@
-## flutter_ecommerce_app
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SinaSys/flutter_ecommerce_app">
-  <img src="https://img.shields.io/github/forks/SinaSys/flutter_ecommerce_app">
-  <img src="https://img.shields.io/github/actions/workflow/status/SinaSys/flutter_ecommerce_app/main.yml?branch=master&label=CI%20&logo=github">
-  <img src="https://img.shields.io/github/v/release/SinaSys/flutter_ecommerce_app?label=Release&logo=semantic-release">
-  <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_ecommerce_app?label=Last%20commit">
-</p>
+# <div align="center">🏠 E-Commerce UI 🏠</div>
 
 
+## 🚀 Getting Started
 
-E-Commerce app is a design implementation of [E-commerce App](https://dribbble.com/shots/15550702-E-commerce-Mobile-App) designed by [Billah](https://dribbble.com/designermasum)
+- An E-Commerce mobile app built with Flutter, providing users with a seamless and visually appealing shopping experience. The app integrates various features to enhance the user journey, including product browsing, cart management, user authentication, and secure payment processing.
+
+<br/>
+
+## 🎲 Features
+
+- **Product Catalog:** Browse and search through an extensive catalog of products with detailed information.
+
+- **User Authentication:** Secure user authentication to manage accounts and track order history.
+
+- **Shopping Cart:** Intuitive shopping cart functionality for easy product management and checkout.
+
+- **Product Reviews:** Read and leave product reviews to help other users make informed decisions.
+
+- **Secure Payments:** Secure payment processing with options for various payment methods.
+
+<br/>
+
+## 📱 UI
 
 ![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/screenshot.png?raw=true)
-
-
-## Screenshots
 
 Preview                    |   Home screen             |  Product Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -23,7 +31,8 @@ Preview                    |   Home screen             |  Product Detail Screen 
 
 <br/>
 
-## Directory Structure
+## 📂 Files Structure
+
 ```
 📂lib
  │───main.dart  
@@ -64,34 +73,44 @@ Preview                    |   Home screen             |  Product Detail Screen 
 
 <br/>
 
-## Dependencies
-Package Name        |
-:-------------------------|
-|[GetX](https://pub.dev/packages/get) 
-|[bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar) 
-|[smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)
-|[flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
-|[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
-|[animations](https://pub.dev/packages/animations)
+## 🛠 Dependencies
+
+```yaml
+  get: ^4.6.6
+  bottom_navy_bar: ^6.0.0
+  smooth_page_indicator: ^1.1.0
+  flutter_rating_bar: ^4.0.1
+  font_awesome_flutter: ^10.6.0
+  animations: ^2.0.8
+```
 
 <br/>
 
-## Created & Maintained By
+## 🫴 Contributing
 
-[SinaSys](https://github.com/SinaSys) 
+- Contributions are welcome 💜
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-
-## Contributors
-• [mufarrah](https://github.com/mufarrah)
-<br/>
 <br/>
 
-##  Other flutter projects
- Project Name        |Stars        
-:-------------------------|-------------------------
-[Go rest app](https://github.com/SinaSys/flutter_go_rest_app)|![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_go_rest_app?style=social)
-[Japanese restaurant app](https://github.com/SinaSys/flutter_japanese_restaurant_app)| ![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_japanese_restaurant_app?style=social)
-|[Office furniture store app](https://github.com/SinaSys/flutter_office_furniture_store_app) |![GitHub stars](https://img.shields.io/github/stars/SinaSys/flutter_office_furniture_store_app?style=social)
+## 💳 License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/Shalaby-VBS/E-Commerce_UI)
+- This package is distributed under the MIT License. Feel free to use and modify it according to your project requirements.
 
+<br/>
+
+## 🤝 Contact With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shalaby-21196521b/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://www.shalaby.vbs@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100093012790432&mibextid=hIlR13)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sh4l4by/)
+
+<br/>
+
+## 💖 Support
+
+- If you find this tutorial useful or learned something from this code, consider show some ❤️ by starring this repo.
 
